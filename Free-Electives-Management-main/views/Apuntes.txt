@@ -1,0 +1,36 @@
+boton de borrar (Vic) Hecho
+
+Borrar columna termino en la tabla de ofreciminetos de cursos (Vic) Hecho
+
+Colocar en add term offering el temrino cativo (Vic) Hecho
+
+Añadir colunma de nombre de curso en el offering term (Vic) Hecho
+
+editar termino aunque este activo (Vic) Hecho 
+
+Colocar termino activo al titulo de las tablas (Vic) Hecho
+
+________________________________________________________________________________________________________________________________
+Arreglar boton de save changes que elimina el termino activo (Eddie) *Hecho*
+
+
+
+Quitar cursos que ya estan en la tabla de ofreciminetos de cursos de la drop-Down de añadir cursos (Eddie) *Hecho*
+
+SI eres un nonAdmin no te deje añadir cursos a Ofreciminentos de Cursos de otros deartamentos (Eddie) *Hecho*
+
+add ofrecimiento solo el departamento (Eddie) *Hecho*
+
+que el prerequisite sea un textbox (Eddie) *Hecho*
+
+edit user lea departamentos nuevos (Eddie) *Hecho*
+________________________________________________________________________________________________________________________________
+
+
+chair solo agrega en su depa (Vic)
+
+cuando e agrega curso sea el term activo automatico (Vic)
+
+
+podemos hacer el popup asi con una pagina en vez  de usar javascript (Vic/Eddie) Hecho
+
